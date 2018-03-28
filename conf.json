@@ -1,0 +1,10 @@
+{
+    "name": "Simditor富文本编辑器",
+    "brief": "这是用simditor改的富文本编辑器，为防止和其他开发者冲突，我不要脸地加了个后缀。图片上传目前是可以用的，但是不是上传，而是直接转成base64，放入html中。",
+    "version": "1.0",
+    "bbs_version": "4.0",
+    "installed": 1,
+    "enable": 1,
+    "hooks_rank": [],
+    "dependencies": []
+}
