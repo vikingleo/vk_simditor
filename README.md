@@ -1,6 +1,6 @@
 # 介绍
 
-名称：xn_simditor_vk
+名称：vk_simditor
 
 > simditor制作的富文本编辑器插件，该插件为初始版本，只做简单的移植。目前已提交插件审核
 
